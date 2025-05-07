@@ -32,15 +32,10 @@ Bem-vindo(a) ao desafio prático para a vaga **Programador(a) Júnior (Python 
 ```
 
 
----
-
-## 1. Quiz On‑line (eliminatório – 70 %)
-
-Você receberá link para um Google Forms com 25 questões de múltipla escolha (Python, SQL/Firebird, n8n, lógica). O gabarito é automático.
 
 ---
 
-## 2. Desafio Back‑end (Python + Firebird)
+## Desafio Back‑end (Python + Firebird)
 
 ### Objetivo
 
@@ -116,7 +111,7 @@ Interface simples para consultar e exportar vendas.
 1. Campo **Mês/Ano**.
 2. Botão **Buscar**: exibir tabela responsiva.
 3. Botão **Exportar Excel** (.xlsx).
-4. Stack livre (Flask+Bootstrap **ou** HTML+JS fetch).
+4. Stack livre (Flask ou framework que preferir +Bootstrap **ou** HTML+JS fetch).
 5. Executar com `python frontend/app.py` **ou** abrir `index.html`.
 
 ### Avaliação
@@ -131,22 +126,7 @@ Interface simples para consultar e exportar vendas.
 
 ---
 
-## 5. Entrevistas
-
-### Técnica (≈45 min)
-
-1. Revisão do seu código Python.
-2. Discussão do workflow n8n.
-3. Demonstração da interface.
-4. Perguntas de cenário.
-
-### Comportamental (≈30 min)
-
-Perguntas no formato STAR sobre aprendizado, trabalho em equipe e valores.
-
----
-
-## 6. Entrega do Pull Request
+## 5. Entrega do Pull Request
 
 1. Revise se cada pasta contém README e que o passo de execução funciona.
 2. Remova senhas ou dados sensíveis dos commits.
